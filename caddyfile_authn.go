@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/greenpau/caddy-security/pkg/util"
+	"github.com/matthias-stone/caddy-security/pkg/util"
 	"github.com/matthias-stone/go-authcrunch"
 	"github.com/matthias-stone/go-authcrunch/pkg/authn"
 	"github.com/matthias-stone/go-authcrunch/pkg/authn/cookie"

@@ -7,7 +7,7 @@ require (
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.4.0
 	github.com/greenpau/caddy-trace v1.1.13
-	github.com/greenpau/go-authcrunch v1.0.47-0.20231206215629-31cf77b338a3
+	github.com/matthias-stone/go-authcrunch v0.0.0-20240104020526-8a539fba183b
 	go.uber.org/zap v1.26.0
 )
 
@@ -63,6 +63,7 @@ require (
 	github.com/google/go-tpm v0.9.0 // indirect
 	github.com/google/go-tspi v0.3.0 // indirect
 	github.com/google/pprof v0.0.0-20231127191134-f3a68a39ae15 // indirect
+	github.com/greenpau/go-authcrunch v1.0.47-0.20231206215629-31cf77b338a3 // indirect
 	github.com/greenpau/versioned v1.0.28 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.1 // indirect
 	github.com/huandu/xstrings v1.4.0 // indirect
@@ -153,7 +154,6 @@ require (
 	golang.org/x/term v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.16.0 // indirect
-	google.golang.org/genproto v0.0.0-20231127180814-3a041ad873d4 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20231127180814-3a041ad873d4 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231127180814-3a041ad873d4 // indirect
 	google.golang.org/grpc v1.59.0 // indirect
