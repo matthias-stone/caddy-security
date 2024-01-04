@@ -5,9 +5,9 @@ go 1.20
 require (
 	github.com/caddyserver/caddy/v2 v2.7.5
 	github.com/google/go-cmp v0.6.0
-	github.com/google/uuid v1.4.0
+	github.com/google/uuid v1.5.0
 	github.com/greenpau/caddy-trace v1.1.13
-	github.com/matthias-stone/go-authcrunch v0.0.0-20240104020526-8a539fba183b
+	github.com/matthias-stone/go-authcrunch v0.0.0-20240104024032-4abe2e0f5cef
 	go.uber.org/zap v1.26.0
 )
 
@@ -23,7 +23,7 @@ require (
 	github.com/alecthomas/chroma/v2 v2.11.1 // indirect
 	github.com/antlr/antlr4/runtime/Go/antlr/v4 v4.0.0-20230305170008-8188dc5388df // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
-	github.com/beevik/etree v1.2.0 // indirect
+	github.com/beevik/etree v1.3.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/caddyserver/certmagic v0.19.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
@@ -40,7 +40,7 @@ require (
 	github.com/dlclark/regexp2 v1.10.0 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/emersion/go-sasl v0.0.0-20231106173351-e73c9f7bad43 // indirect
-	github.com/emersion/go-smtp v0.19.0 // indirect
+	github.com/emersion/go-smtp v0.20.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fxamacker/cbor/v2 v2.5.0 // indirect
 	github.com/go-asn1-ber/asn1-ber v1.5.5 // indirect
@@ -145,7 +145,7 @@ require (
 	go.step.sm/linkedca v0.20.1 // indirect
 	go.uber.org/mock v0.3.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.16.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20231127185646-65229373498e // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
