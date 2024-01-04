@@ -1,4 +1,4 @@
-module github.com/greenpau/caddy-security
+module github.com/matthias-stone/caddy-security
 
 go 1.20
 
@@ -164,4 +164,4 @@ require (
 	howett.net/plist v1.0.1 // indirect
 )
 
-replace github.com/greenpau/go-authcrunch => github.com/matthias-stone/go-authcrunch v0.0.0-20240104020526-8a539fba183b
+replace github.com/greenpau/go-authcrunch => github.com/matthias-stone/go-authcrunch v0.0.0-20240104014750-42a4dbca7037
