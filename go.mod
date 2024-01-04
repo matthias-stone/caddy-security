@@ -7,7 +7,7 @@ require (
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.4.0
 	github.com/greenpau/caddy-trace v1.1.13
-	github.com/greenpau/go-authcrunch v1.0.46
+	github.com/greenpau/go-authcrunch v1.0.47-0.20231206215629-31cf77b338a3
 	go.uber.org/zap v1.26.0
 )
 
@@ -163,3 +163,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	howett.net/plist v1.0.1 // indirect
 )
+
+replace github.com/greenpau/go-authcrunch => github.com/matthias-stone/go-authcrunch v0.0.0-20240104014750-42a4dbca7037
