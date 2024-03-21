@@ -17,10 +17,10 @@ package security
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/greenpau/caddy-security/pkg/util"
-	"github.com/greenpau/go-authcrunch/pkg/authz"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
+	"github.com/matthias-stone/caddy-security/pkg/util"
+	"github.com/matthias-stone/go-authcrunch/pkg/authz"
+	"github.com/matthias-stone/go-authcrunch/pkg/errors"
+	cfgutil "github.com/matthias-stone/go-authcrunch/pkg/util/cfg"
 )
 
 func parseCaddyfileAuthorizationCrypto(h *caddyfile.Dispenser, repl *caddy.Replacer, policy *authz.PolicyConfig, rootDirective string, args []string) error {

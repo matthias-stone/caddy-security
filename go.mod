@@ -1,4 +1,4 @@
-module github.com/greenpau/caddy-security
+module github.com/matthias-stone/caddy-security
 
 go 1.20
 
@@ -7,7 +7,7 @@ require (
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
 	github.com/greenpau/caddy-trace v1.1.13
-	github.com/greenpau/go-authcrunch v1.0.50
+	github.com/matthias-stone/go-authcrunch v0.0.0-20240321183255-1ae5812e254e
 	github.com/tidwall/gjson v1.17.1
 	go.uber.org/zap v1.27.0
 )

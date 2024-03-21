@@ -283,6 +283,8 @@ github.com/mastercactapus/proxyprotocol v0.0.4 h1:qSY75IZF30ZqIU9iW1ip3I7gTnm8wR
 github.com/mastercactapus/proxyprotocol v0.0.4/go.mod h1:X8FRVEDZz9FkrIoL4QYTBF4Ka4ELwTv0sah0/5NxCPw=
 github.com/mattermost/xml-roundtrip-validator v0.1.0 h1:RXbVD2UAl7A7nOTR4u7E3ILa4IbtvKBHw64LDsmu9hU=
 github.com/mattermost/xml-roundtrip-validator v0.1.0/go.mod h1:qccnGMcpgwcNaBnxqpJpWWUiPNr5H3O8eDgGV9gT5To=
+github.com/matthias-stone/go-authcrunch v0.0.0-20240321183255-1ae5812e254e h1:0AsY9ClnC2acwjl5I/HkuawgxYGjjHaXe1wafqRNk8E=
+github.com/matthias-stone/go-authcrunch v0.0.0-20240321183255-1ae5812e254e/go.mod h1:Q3Y4WUtwl52QBJx/RwkKZ3o0D8WDdxirgOgGm6DkZmU=
 github.com/mattn/go-colorable v0.1.1/go.mod h1:FuOcm+DKB9mbwrcAfNl7/TZVBZ6rcnceauSikq3lYCQ=
 github.com/mattn/go-colorable v0.1.6/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
